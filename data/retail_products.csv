@@ -1,0 +1,11 @@
+product_id,product_name,category,base_price,base_cost,supplier_id
+P001,Laptop,Electronics,850,600,SUP007
+P002,T-Shirt,Apparel,25,8,SUP004
+P003,Rice (5kg),Grocery,12,7,SUP008
+P004,Coffee Maker,Home & Kitchen,120,70,SUP005
+P005,Running Shoes,Sports,95,45,SUP007
+P006,Smartphone,Electronics,699,450,SUP010
+P007,Jeans,Apparel,60,22,SUP003
+P008,Cooking Oil (2L),Grocery,8,4,SUP007
+P009,Blender,Home & Kitchen,75,38,SUP008
+P010,Yoga Mat,Sports,40,18,SUP005
